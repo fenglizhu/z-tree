@@ -81,15 +81,15 @@ treeData: [
     }
 </script>
 ```
-props：
-  treeData：树形数据
-  parentAllSelect ：使用哪种模式 
-    true：模式一  
-    false：模式二
+props：  
+  treeData：树形数据  
+  parentAllSelect ：使用哪种模式   
+    true：模式一    
+    false：模式二  
 
-事件：
-  @get-current：选中事件，返回当前选中节点
-  @change-node：数据改变事件，返回全部数据
+事件：  
+  @get-current：选中事件，返回当前选中节点  
+  @change-node：数据改变事件，返回全部数据  
 
 ### 项目演示地址
 待定
